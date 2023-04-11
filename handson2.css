@@ -1,0 +1,177 @@
+.food {
+    height: 70px;
+    width: 320px;
+    background: black;
+    border: 5px solid red;
+    font-style: italic;
+    border-radius: 30px;
+    /* margin: 10px; */
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
+.home {
+    height: 30px;
+    width: 400px;
+    background: black;
+    border: 5px solid red;
+    font-style: italic;
+    /* margin: 50px; */
+    border-radius: 30px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: -93px;
+    margin-left: 200px;
+
+
+}
+.midContainer{
+    display:flex;
+    margin-left: 50px;
+    margin-top: 100px;
+    gap: 250px;
+    text-align: center;
+    text-align: center;
+    
+}
+.store {
+    height: 100px;
+    width: 280px;
+    background: black;
+    border: 5px solid red;
+    padding: 10px;
+    /* margin: 10px; */
+    border-radius: 30px;
+    color: white;
+    /* margin-right: 10px; */
+    float: right;
+    text-align: center;
+    margin-top: -60px;
+}
+.form {
+    background: white;
+    color: rgb(203, 61, 61);
+    height: 550px;
+    width: 400px;
+    border: 5px dashed red;
+    padding: 10px;
+    /* margin: 10px;  */
+    text-align: center;
+    align-items: center;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+.offer {
+    height: 300px;
+    width: 300px;
+    border: 5px solid rgb(84, 79, 79);
+    background: rgb(25, 146, 110);
+    text-decoration: underline;
+    border-radius: 100%;
+    font-style: bold;
+    /* align-items: center; */
+    /* margin-left: 100px; */
+    /* text-align: center; */
+    position: relative;
+    top: 300px;
+    padding: 10px;
+    padding-top: 40px;
+   
+}
+.menu {
+    background: black;
+    border: 5px solid red;
+    border-radius: 20px;
+    height: 50px;
+    width: 600px;
+    color: white;
+    text-align: center;
+    /* margin-left: 50px; */
+    /* align-items: center; */
+    margin: 20px 500px 20px 500px;
+    align-items: center;
+   font-weight: bold;
+   /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    
+}
+.starters {
+    background: rgb(121, 210, 216);
+    border: 5px solid green;
+    height: 300px;
+    width: 350px;
+    color: rgb(10, 10, 46);
+    border-radius: 30px;
+    text-align: center;
+}
+/* .red {
+    color: red;
+} */
+.south {
+    background: rgb(121, 210, 216);
+    border: 5px solid green;
+    height: 300px;
+    width: 350px;
+    color: rgb(14, 14, 51);
+    border-radius: 30px;
+    text-align: center; 
+}
+.indian {
+    background: rgb(121, 210, 216);
+    border: 5px solid green;
+    height: 300px;
+    width: 350px;
+    color: rgb(17, 17, 56);
+    border-radius: 30px;
+    text-align: center;
+}
+.rice {
+    background: rgb(121, 210, 216);
+    border: 5px solid green;
+    height: 300px;
+    width: 350px;
+    color: rgb(16, 16, 55);
+    border-radius: 30px;
+    text-align: center;
+}
+.tandoori {
+    background: rgb(121, 210, 216);
+    border: 5px solid green;
+    height: 300px;
+    width: 350px;
+    color: rgb(23, 23, 70);
+    border-radius: 30px;
+    text-align: center;
+}
+.beverages {
+    background: rgb(121, 210, 216);
+    border: 5px solid green;
+    height: 350px;
+    width: 350px;
+    color: rgb(17, 17, 55);
+    border-radius: 30px;
+    text-align: center;
+}
+.three {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+   gap: 40px;
+   /* height: 400px; */
+   /* width: 400px; */
+
+}
+.index {
+    /* background-image: url(./land.svg); */
+   
+}
+hr {
+    color: white;
+    size: 100%;
+}
+body {
+    background-image: url(./paper.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+  
+}
